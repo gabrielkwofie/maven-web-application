@@ -1,7 +1,7 @@
 pipeline{
 	agent any 
 	tools {
-		maven 'maven399'
+		maven 'maven3.9.12'
 		//node  'node2.15'
 	}
 	//options {} 
